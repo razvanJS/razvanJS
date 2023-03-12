@@ -11,8 +11,8 @@ I am looking for a job in web development and I have recently completed a front-
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.github.com/OpreaRazvanVasile" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/OpreaRazvanVasile?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/razvanJS" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/razvanJS?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
